@@ -158,7 +158,7 @@ You'll need to make a Slack _app_ (it's easier than that sounds). And you will n
 
 The only catch is that depending on your existing Slack setup, you may need to get an administrator to approve the creation of an app. It _should_ be pretty safe to do: yre only requesting the ability to `chat:write`, which is simply posting into a channel. Many admins are okay with this.
 
-Even if they are not, the good thing is that you this will work in a _free Slack workspace_. So even if you don't have full access to your organization's Slack system, you can do this all on your own if you want. Let's do that for fun:
+Even if they are not, the good thing is that you this will work in a _free Slack workspace_. So even if you don't have full access to your organization's Slack system, you can do this all on your own if you want. Let's do that for fun. There are detailed screenshots of this process [in this issue](https://github.com/jkeefe/weather-newsrooms-nicar25/issues/1).
 
 - Open a new browser tab.
 - Go to [slack.com](https://slack.com)
